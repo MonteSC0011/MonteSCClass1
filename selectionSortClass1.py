@@ -27,5 +27,5 @@ def selectionSort(array):
 
 	return array
 
-	print(selectionSort(array)) 
+print(selectionSort(array)) 
 
